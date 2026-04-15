@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+---
+
 > 개씹상남자 오건우의 사진을 실시간으로 확인하고 관리할 수 있는
 > **모바일 이미지 피드 서비스**
 
