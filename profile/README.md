@@ -1,5 +1,14 @@
 # 오건우닷컴 (Ogunwoo.com)
 
+<div style="display: flex">
+<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/gin-008ECF?style=for-the-badge&logo=gin&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
 > 개씹상남자 오건우의 사진을 실시간으로 확인하고 관리할 수 있는
 > **모바일 이미지 피드 서비스**
 
